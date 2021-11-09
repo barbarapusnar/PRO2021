@@ -1,0 +1,10 @@
+D:\PRO2021\IgranjeKart\IgranjeKart\bin\Debug\IgranjeKart.exe.config
+D:\PRO2021\IgranjeKart\IgranjeKart\bin\Debug\IgranjeKart.exe
+D:\PRO2021\IgranjeKart\IgranjeKart\bin\Debug\IgranjeKart.pdb
+D:\PRO2021\IgranjeKart\IgranjeKart\obj\Debug\IgranjeKart.csproj.AssemblyReference.cache
+D:\PRO2021\IgranjeKart\IgranjeKart\obj\Debug\IgranjeKart.Form1.resources
+D:\PRO2021\IgranjeKart\IgranjeKart\obj\Debug\IgranjeKart.Properties.Resources.resources
+D:\PRO2021\IgranjeKart\IgranjeKart\obj\Debug\IgranjeKart.csproj.GenerateResource.cache
+D:\PRO2021\IgranjeKart\IgranjeKart\obj\Debug\IgranjeKart.csproj.CoreCompileInputs.cache
+D:\PRO2021\IgranjeKart\IgranjeKart\obj\Debug\IgranjeKart.exe
+D:\PRO2021\IgranjeKart\IgranjeKart\obj\Debug\IgranjeKart.pdb

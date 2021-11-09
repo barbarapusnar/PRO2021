@@ -1,0 +1,7 @@
+D:\PRO2021\Računanje1\Računanje1\bin\Debug\Računanje1.exe.config
+D:\PRO2021\Računanje1\Računanje1\bin\Debug\Računanje1.exe
+D:\PRO2021\Računanje1\Računanje1\bin\Debug\Računanje1.pdb
+D:\PRO2021\Računanje1\Računanje1\obj\Debug\Računanje1.csproj.AssemblyReference.cache
+D:\PRO2021\Računanje1\Računanje1\obj\Debug\Računanje1.csproj.CoreCompileInputs.cache
+D:\PRO2021\Računanje1\Računanje1\obj\Debug\Računanje1.exe
+D:\PRO2021\Računanje1\Računanje1\obj\Debug\Računanje1.pdb

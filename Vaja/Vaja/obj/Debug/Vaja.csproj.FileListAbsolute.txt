@@ -1,0 +1,7 @@
+D:\PRO2021\Vaja\Vaja\bin\Debug\Vaja.exe.config
+D:\PRO2021\Vaja\Vaja\bin\Debug\Vaja.exe
+D:\PRO2021\Vaja\Vaja\bin\Debug\Vaja.pdb
+D:\PRO2021\Vaja\Vaja\obj\Debug\Vaja.csproj.AssemblyReference.cache
+D:\PRO2021\Vaja\Vaja\obj\Debug\Vaja.csproj.CoreCompileInputs.cache
+D:\PRO2021\Vaja\Vaja\obj\Debug\Vaja.exe
+D:\PRO2021\Vaja\Vaja\obj\Debug\Vaja.pdb

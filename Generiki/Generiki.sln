@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generiki", "Generiki\Generiki.csproj", "{5D38B65A-47EA-4FD1-8711-4BFC1B96BA7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D38B65A-47EA-4FD1-8711-4BFC1B96BA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D38B65A-47EA-4FD1-8711-4BFC1B96BA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D38B65A-47EA-4FD1-8711-4BFC1B96BA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D38B65A-47EA-4FD1-8711-4BFC1B96BA7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8C1DE8B-F6D3-4357-A8CD-8476D1B4406E}
+	EndGlobalSection
+EndGlobal
