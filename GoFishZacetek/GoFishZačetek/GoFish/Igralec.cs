@@ -23,6 +23,7 @@ namespace GoFish
             //v vnosno polje doda tekst "Joe se je pridružil igri" in prehod 
             //v novo vrstico
             ime = i;
+            roka = new Kup(new Karta[] { });
             random = r;
             textNaFormi = t;
             textNaFormi.Text += ime + " se pridruži igri"+Environment.NewLine;
