@@ -1,0 +1,15 @@
+D:\Barbara\PROII\GoFish\GoFish\bin\Debug\GoFish.exe.config
+D:\Barbara\PROII\GoFish\GoFish\obj\Debug\GoFish.csprojResolveAssemblyReference.cache
+D:\Barbara\PROII\GoFish\GoFish\obj\Debug\GoFish.Form1.resources
+D:\Barbara\PROII\GoFish\GoFish\obj\Debug\GoFish.Properties.Resources.resources
+D:\Barbara\PROII\GoFish\GoFish\obj\Debug\GoFish.csproj.GenerateResource.Cache
+D:\PRO2021\GoFishZacetek\GoFishZačetek\GoFish\bin\Debug\GoFish.exe.config
+D:\PRO2021\GoFishZacetek\GoFishZačetek\GoFish\bin\Debug\GoFish.exe
+D:\PRO2021\GoFishZacetek\GoFishZačetek\GoFish\bin\Debug\GoFish.pdb
+D:\PRO2021\GoFishZacetek\GoFishZačetek\GoFish\obj\Debug\GoFish.csproj.AssemblyReference.cache
+D:\PRO2021\GoFishZacetek\GoFishZačetek\GoFish\obj\Debug\GoFish.Form1.resources
+D:\PRO2021\GoFishZacetek\GoFishZačetek\GoFish\obj\Debug\GoFish.Properties.Resources.resources
+D:\PRO2021\GoFishZacetek\GoFishZačetek\GoFish\obj\Debug\GoFish.csproj.GenerateResource.cache
+D:\PRO2021\GoFishZacetek\GoFishZačetek\GoFish\obj\Debug\GoFish.csproj.CoreCompileInputs.cache
+D:\PRO2021\GoFishZacetek\GoFishZačetek\GoFish\obj\Debug\GoFish.exe
+D:\PRO2021\GoFishZacetek\GoFishZačetek\GoFish\obj\Debug\GoFish.pdb
