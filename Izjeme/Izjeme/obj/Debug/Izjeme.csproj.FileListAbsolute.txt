@@ -1,0 +1,7 @@
+D:\PRO2021\Izjeme\Izjeme\bin\Debug\Izjeme.exe.config
+D:\PRO2021\Izjeme\Izjeme\bin\Debug\Izjeme.exe
+D:\PRO2021\Izjeme\Izjeme\bin\Debug\Izjeme.pdb
+D:\PRO2021\Izjeme\Izjeme\obj\Debug\Izjeme.csproj.AssemblyReference.cache
+D:\PRO2021\Izjeme\Izjeme\obj\Debug\Izjeme.csproj.CoreCompileInputs.cache
+D:\PRO2021\Izjeme\Izjeme\obj\Debug\Izjeme.exe
+D:\PRO2021\Izjeme\Izjeme\obj\Debug\Izjeme.pdb

@@ -1,0 +1,10 @@
+D:\PRO2021\Primerjson\Primerjson\bin\Debug\Primerjson.exe.config
+D:\PRO2021\Primerjson\Primerjson\bin\Debug\Primerjson.exe
+D:\PRO2021\Primerjson\Primerjson\bin\Debug\Primerjson.pdb
+D:\PRO2021\Primerjson\Primerjson\bin\Debug\Newtonsoft.Json.dll
+D:\PRO2021\Primerjson\Primerjson\bin\Debug\Newtonsoft.Json.xml
+D:\PRO2021\Primerjson\Primerjson\obj\Debug\Primerjson.csproj.AssemblyReference.cache
+D:\PRO2021\Primerjson\Primerjson\obj\Debug\Primerjson.csproj.CoreCompileInputs.cache
+D:\PRO2021\Primerjson\Primerjson\obj\Debug\Primerjson.csproj.CopyComplete
+D:\PRO2021\Primerjson\Primerjson\obj\Debug\Primerjson.exe
+D:\PRO2021\Primerjson\Primerjson\obj\Debug\Primerjson.pdb

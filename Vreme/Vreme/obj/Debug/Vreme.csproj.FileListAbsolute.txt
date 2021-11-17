@@ -1,0 +1,7 @@
+D:\PRO2021\Vreme\Vreme\bin\Debug\Vreme.exe.config
+D:\PRO2021\Vreme\Vreme\bin\Debug\Vreme.exe
+D:\PRO2021\Vreme\Vreme\bin\Debug\Vreme.pdb
+D:\PRO2021\Vreme\Vreme\obj\Debug\Vreme.csproj.AssemblyReference.cache
+D:\PRO2021\Vreme\Vreme\obj\Debug\Vreme.csproj.CoreCompileInputs.cache
+D:\PRO2021\Vreme\Vreme\obj\Debug\Vreme.exe
+D:\PRO2021\Vreme\Vreme\obj\Debug\Vreme.pdb
