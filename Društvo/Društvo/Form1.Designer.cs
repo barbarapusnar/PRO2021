@@ -95,7 +95,8 @@ namespace Društvo
             this.txtZapŠt.Location = new System.Drawing.Point(212, 43);
             this.txtZapŠt.Name = "txtZapŠt";
             this.txtZapŠt.Size = new System.Drawing.Size(100, 26);
-            this.txtZapŠt.TabIndex = 5;
+            this.txtZapŠt.TabIndex = 4;
+            this.txtZapŠt.Leave += new System.EventHandler(this.txtZapŠt_Leave);
             // 
             // txtNamen
             // 
@@ -110,6 +111,7 @@ namespace Društvo
             this.txtZnesek.Name = "txtZnesek";
             this.txtZnesek.Size = new System.Drawing.Size(100, 26);
             this.txtZnesek.TabIndex = 7;
+            this.txtZnesek.Leave += new System.EventHandler(this.txtZnesek_Leave);
             // 
             // txtOpombe
             // 
@@ -121,11 +123,12 @@ namespace Društvo
             // 
             // dtpDatum
             // 
-            this.dtpDatum.Location = new System.Drawing.Point(212, 84);
+            this.dtpDatum.Location = new System.Drawing.Point(212, 79);
             this.dtpDatum.Name = "dtpDatum";
             this.dtpDatum.Size = new System.Drawing.Size(268, 26);
-            this.dtpDatum.TabIndex = 9;
-            this.dtpDatum.Value = new System.DateTime(2021, 11, 16, 9, 59, 18, 0);
+            this.dtpDatum.TabIndex = 5;
+            this.dtpDatum.Value = new System.DateTime(2021, 11, 17, 0, 0, 0, 0);
+            this.dtpDatum.Enter += new System.EventHandler(this.dtpDatum_Enter);
             // 
             // button1
             // 
@@ -150,8 +153,8 @@ namespace Društvo
             // sbStatus
             // 
             this.sbStatus.Name = "sbStatus";
-            this.sbStatus.Size = new System.Drawing.Size(118, 17);
-            this.sbStatus.Text = "toolStripStatusLabel1";
+            this.sbStatus.Size = new System.Drawing.Size(29, 17);
+            this.sbStatus.Text = "Nov";
             // 
             // Form1
             // 

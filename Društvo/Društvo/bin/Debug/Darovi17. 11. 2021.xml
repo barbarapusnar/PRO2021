@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<ArrayOfDarovi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Darovi>
+    <ZapŠt>1</ZapŠt>
+    <Datum>2021-11-17T08:16:50</Datum>
+    <Namen>poplave</Namen>
+    <Znesek>-100</Znesek>
+    <Opombe>mačka bi rada v razred</Opombe>
+  </Darovi>
+  <Darovi>
+    <ZapŠt>2</ZapŠt>
+    <Datum>2021-11-17T08:16:50.56577+01:00</Datum>
+    <Namen>požar</Namen>
+    <Znesek>200</Znesek>
+    <Opombe>hgheghčečg</Opombe>
+  </Darovi>
+  <Darovi>
+    <ZapŠt>3</ZapŠt>
+    <Datum>2021-11-17T08:16:50</Datum>
+    <Namen>ne vem</Namen>
+    <Znesek>50</Znesek>
+    <Opombe>nnnn</Opombe>
+  </Darovi>
+  <Darovi>
+    <ZapŠt>5</ZapŠt>
+    <Datum>2021-11-17T08:23:41</Datum>
+    <Namen />
+    <Znesek>20</Znesek>
+    <Opombe />
+  </Darovi>
+  <Darovi>
+    <ZapŠt>6</ZapŠt>
+    <Datum>2021-11-17T08:24:42</Datum>
+    <Namen />
+    <Znesek>0</Znesek>
+    <Opombe />
+  </Darovi>
+  <Darovi>
+    <ZapŠt>7</ZapŠt>
+    <Datum>2021-11-17T08:31:25</Datum>
+    <Namen>bbbbbb</Namen>
+    <Znesek>-20</Znesek>
+    <Opombe />
+  </Darovi>
+  <Darovi>
+    <ZapŠt>8</ZapŠt>
+    <Datum>2021-11-17T08:31:25</Datum>
+    <Namen />
+    <Znesek>12</Znesek>
+    <Opombe />
+  </Darovi>
+</ArrayOfDarovi>

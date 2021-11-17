@@ -53,10 +53,45 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="GlavnoOkno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GlavnoOkno.Designer.cs">
+      <DependentUpon>GlavnoOkno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Obnova.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Obnova.Designer.cs">
+      <DependentUpon>Obnova.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pregled.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pregled.Designer.cs">
+      <DependentUpon>Pregled.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Zaščita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zaščita.Designer.cs">
+      <DependentUpon>Zaščita.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GlavnoOkno.resx">
+      <DependentUpon>GlavnoOkno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pregled.resx">
+      <DependentUpon>Pregled.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -66,7 +101,15 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zaščita.resx">
+      <DependentUpon>Zaščita.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -79,6 +122,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FloppyDisk.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
