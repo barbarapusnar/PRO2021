@@ -12,3 +12,8 @@ D:\PRO2021\Društvo\Društvo\obj\Debug\Društvo.Resource1.resources
 D:\PRO2021\Društvo\Društvo\obj\Debug\Društvo.GlavnoOkno.resources
 D:\PRO2021\Društvo\Društvo\obj\Debug\Društvo.Pregled.resources
 D:\PRO2021\Društvo\Društvo\obj\Debug\Društvo.Zaščita.resources
+D:\PRO2021\Društvo\Društvo\obj\Debug\Društvo.Tiskanje.resources
+D:\PRO2021\Društvo\Društvo\bin\Debug\Društvo.exe.manifest
+D:\PRO2021\Društvo\Društvo\bin\Debug\Društvo.application
+D:\PRO2021\Društvo\Društvo\obj\Debug\Društvo.exe.manifest
+D:\PRO2021\Društvo\Društvo\obj\Debug\Društvo.application

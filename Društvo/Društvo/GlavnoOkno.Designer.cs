@@ -73,6 +73,7 @@ namespace Društvo
             this.tiskanjeToolStripMenuItem.Name = "tiskanjeToolStripMenuItem";
             this.tiskanjeToolStripMenuItem.Size = new System.Drawing.Size(78, 25);
             this.tiskanjeToolStripMenuItem.Text = "Tiskanje";
+            this.tiskanjeToolStripMenuItem.Click += new System.EventHandler(this.tiskanjeToolStripMenuItem_Click);
             // 
             // zaščitaToolStripMenuItem
             // 
