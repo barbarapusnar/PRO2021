@@ -56,10 +56,16 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Darovi.cs" />
+    <Compile Include="Pregled.xaml.cs">
+      <DependentUpon>Pregled.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Resource1.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Tiskanje.xaml.cs">
+      <DependentUpon>Tiskanje.xaml</DependentUpon>
     </Compile>
     <Compile Include="Vnosi.xaml.cs">
       <DependentUpon>Vnosi.xaml</DependentUpon>
@@ -76,6 +82,14 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Pregled.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Tiskanje.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Vnosi.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -110,6 +124,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Slike\delete.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Slike\FloppyDisk.ico" />
+    <Resource Include="Slike\help.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

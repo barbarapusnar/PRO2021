@@ -61,7 +61,7 @@ namespace Društvo {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to D:\Pro2021\Darovi.dat.
+        ///   Looks up a localized string similar to d:\pro2021\Drustvo.dat.
         /// </summary>
         internal static string pot {
             get {

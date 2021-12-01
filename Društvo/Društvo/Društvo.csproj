@@ -137,17 +137,16 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <Content Include="Resource1.resx">
+    <EmbeddedResource Include="Resource1.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
-    </Content>
+    </EmbeddedResource>
     <EmbeddedResource Include="Tiskanje.resx">
       <DependentUpon>Tiskanje.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Zaščita.resx">
       <DependentUpon>Zaščita.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="Društvo_TemporaryKey.pfx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

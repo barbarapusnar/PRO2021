@@ -1,7 +1,6 @@
 D:\PRO2021\DruštvoWPF\DruštvoWPF\bin\Debug\DruštvoWPF.exe.config
 D:\PRO2021\DruštvoWPF\DruštvoWPF\bin\Debug\DruštvoWPF.exe
 D:\PRO2021\DruštvoWPF\DruštvoWPF\bin\Debug\DruštvoWPF.pdb
-D:\PRO2021\DruštvoWPF\DruštvoWPF\obj\Debug\DruštvoWPF.csproj.AssemblyReference.cache
 D:\PRO2021\DruštvoWPF\DruštvoWPF\obj\Debug\MainWindow.g.cs
 D:\PRO2021\DruštvoWPF\DruštvoWPF\obj\Debug\App.g.cs
 D:\PRO2021\DruštvoWPF\DruštvoWPF\obj\Debug\DruštvoWPF_MarkupCompile.cache
@@ -16,3 +15,8 @@ D:\PRO2021\DruštvoWPF\DruštvoWPF\obj\Debug\DruštvoWPF.pdb
 D:\PRO2021\DruštvoWPF\DruštvoWPF\obj\Debug\Vnosi.g.cs
 D:\PRO2021\DruštvoWPF\DruštvoWPF\obj\Debug\Vnosi.baml
 D:\PRO2021\DruštvoWPF\DruštvoWPF\obj\Debug\DruštvoWPF.Resource1.resources
+D:\PRO2021\DruštvoWPF\DruštvoWPF\obj\Debug\Pregled.g.cs
+D:\PRO2021\DruštvoWPF\DruštvoWPF\obj\Debug\Pregled.baml
+D:\PRO2021\DruštvoWPF\DruštvoWPF\obj\Debug\DruštvoWPF.csproj.AssemblyReference.cache
+D:\PRO2021\DruštvoWPF\DruštvoWPF\obj\Debug\Tiskanje.g.cs
+D:\PRO2021\DruštvoWPF\DruštvoWPF\obj\Debug\Tiskanje.baml

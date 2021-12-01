@@ -33,11 +33,14 @@ namespace DruštvoWPF
 
         private void MenuItem_Click(object sender, RoutedEventArgs e)
         {
-
+            Pregled x = new Pregled();
+            x.Show();
         }
 
         private void MenuItem_Click_1(object sender, RoutedEventArgs e)
         {
+            Tiskanje x = new Tiskanje();
+            x.Show();
 
         }
 

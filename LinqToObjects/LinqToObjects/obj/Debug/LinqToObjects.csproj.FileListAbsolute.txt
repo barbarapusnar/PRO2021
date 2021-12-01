@@ -1,0 +1,7 @@
+D:\PRO2021\LinqToObjects\LinqToObjects\bin\Debug\LinqToObjects.exe.config
+D:\PRO2021\LinqToObjects\LinqToObjects\bin\Debug\LinqToObjects.exe
+D:\PRO2021\LinqToObjects\LinqToObjects\bin\Debug\LinqToObjects.pdb
+D:\PRO2021\LinqToObjects\LinqToObjects\obj\Debug\LinqToObjects.csproj.AssemblyReference.cache
+D:\PRO2021\LinqToObjects\LinqToObjects\obj\Debug\LinqToObjects.csproj.CoreCompileInputs.cache
+D:\PRO2021\LinqToObjects\LinqToObjects\obj\Debug\LinqToObjects.exe
+D:\PRO2021\LinqToObjects\LinqToObjects\obj\Debug\LinqToObjects.pdb

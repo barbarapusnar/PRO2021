@@ -1,14 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
 using System.IO;
-using System.Linq;
 using System.Runtime.Serialization;
 using System.Runtime.Serialization.Formatters.Binary;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Društvo
@@ -25,11 +20,13 @@ namespace Društvo
 
         private void Pregled_Load(object sender, EventArgs e)
         {
-            try {
+            try
+            {
                 FileStream fs = new FileStream(pot, FileMode.Open);
                 BinaryFormatter bf = new BinaryFormatter();
                 Darovi d;
-                try {
+                try
+                {
                     while (true)
                     {
                         d = (Darovi)bf.Deserialize(fs);
@@ -85,13 +82,13 @@ namespace Društvo
 
         private void toolStripButton1_Click(object sender, EventArgs e)
         {
-            FileStream fs = new FileStream(pot,FileMode.Create);
+            FileStream fs = new FileStream(pot, FileMode.Create);
             BinaryFormatter bf = new BinaryFormatter();
             foreach (Darovi d in spremembe)
                 bf.Serialize(fs, d);
             fs.Close();
             števecSpremeb = 0;
-            
+
         }
 
         private void Pregled_FormClosing(object sender, FormClosingEventArgs e)
@@ -99,7 +96,7 @@ namespace Društvo
             if (števecSpremeb != 0)
             {
                 DialogResult x = MessageBox.Show("Ostajajo neshranjene spremembe.\nShranim sedaj",
-                    "Shranjevanje",  MessageBoxButtons.YesNo,MessageBoxIcon.Warning);
+                    "Shranjevanje", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
                 if (x == DialogResult.Yes)
                 {
                     FileStream fs = new FileStream(pot, FileMode.Create);
@@ -116,7 +113,7 @@ namespace Društvo
         {
             DialogResult a = MessageBox.Show("Resnično želiš brisati vrstico", "Brisanje",
                 MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
-            if (a==DialogResult.Yes)
+            if (a == DialogResult.Yes)
             {
                 DataGridViewRow vrstica = dgwPodatki.CurrentRow;
                 int index = vrstica.Index;
