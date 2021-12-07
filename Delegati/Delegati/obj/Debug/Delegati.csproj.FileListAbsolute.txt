@@ -1,0 +1,7 @@
+D:\PRO2021\Delegati\Delegati\bin\Debug\Delegati.exe.config
+D:\PRO2021\Delegati\Delegati\bin\Debug\Delegati.exe
+D:\PRO2021\Delegati\Delegati\bin\Debug\Delegati.pdb
+D:\PRO2021\Delegati\Delegati\obj\Debug\Delegati.csproj.AssemblyReference.cache
+D:\PRO2021\Delegati\Delegati\obj\Debug\Delegati.csproj.CoreCompileInputs.cache
+D:\PRO2021\Delegati\Delegati\obj\Debug\Delegati.exe
+D:\PRO2021\Delegati\Delegati\obj\Debug\Delegati.pdb

@@ -1,0 +1,10 @@
+D:\PRO2021\PoizvedbeVdevesu\PoizvedbeVdevesu\bin\Debug\PoizvedbeVdevesu.exe.config
+D:\PRO2021\PoizvedbeVdevesu\PoizvedbeVdevesu\bin\Debug\PoizvedbeVdevesu.exe
+D:\PRO2021\PoizvedbeVdevesu\PoizvedbeVdevesu\bin\Debug\PoizvedbeVdevesu.pdb
+D:\PRO2021\PoizvedbeVdevesu\PoizvedbeVdevesu\obj\Debug\PoizvedbeVdevesu.csproj.AssemblyReference.cache
+D:\PRO2021\PoizvedbeVdevesu\PoizvedbeVdevesu\obj\Debug\PoizvedbeVdevesu.csproj.CoreCompileInputs.cache
+D:\PRO2021\PoizvedbeVdevesu\PoizvedbeVdevesu\obj\Debug\PoizvedbeVdevesu.exe
+D:\PRO2021\PoizvedbeVdevesu\PoizvedbeVdevesu\obj\Debug\PoizvedbeVdevesu.pdb
+D:\PRO2021\PoizvedbeVdevesu\PoizvedbeVdevesu\bin\Debug\BinaryTree.dll
+D:\PRO2021\PoizvedbeVdevesu\PoizvedbeVdevesu\bin\Debug\BinaryTree.pdb
+D:\PRO2021\PoizvedbeVdevesu\PoizvedbeVdevesu\obj\Debug\PoizvedbeVdevesu.csproj.CopyComplete

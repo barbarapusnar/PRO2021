@@ -1,0 +1,11 @@
+C:\Users\uporabnik\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 20\BinaryTree\bin\Debug\BinaryTree.dll
+C:\Users\uporabnik\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 20\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\uporabnik\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 20\BinaryTree\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\uporabnik\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 20\BinaryTree\obj\Debug\BinaryTree.dll
+C:\Users\uporabnik\Documents\Microsoft Press\Visual CSharp Step By Step\Chapter 20\BinaryTree\obj\Debug\BinaryTree.pdb
+D:\PRO2021\BinaryTree\BinaryTree\bin\Debug\BinaryTree.dll
+D:\PRO2021\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\PRO2021\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.AssemblyReference.cache
+D:\PRO2021\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+D:\PRO2021\BinaryTree\BinaryTree\obj\Debug\BinaryTree.dll
+D:\PRO2021\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb

@@ -1,0 +1,7 @@
+D:\PRO2021\PovezavaLinqToSql\PovezavaLinqToSql\bin\Debug\PovezavaLinqToSql.exe.config
+D:\PRO2021\PovezavaLinqToSql\PovezavaLinqToSql\bin\Debug\PovezavaLinqToSql.exe
+D:\PRO2021\PovezavaLinqToSql\PovezavaLinqToSql\bin\Debug\PovezavaLinqToSql.pdb
+D:\PRO2021\PovezavaLinqToSql\PovezavaLinqToSql\obj\Debug\PovezavaLinqToSql.csproj.AssemblyReference.cache
+D:\PRO2021\PovezavaLinqToSql\PovezavaLinqToSql\obj\Debug\PovezavaLinqToSql.csproj.CoreCompileInputs.cache
+D:\PRO2021\PovezavaLinqToSql\PovezavaLinqToSql\obj\Debug\PovezavaLinqToSql.exe
+D:\PRO2021\PovezavaLinqToSql\PovezavaLinqToSql\obj\Debug\PovezavaLinqToSql.pdb
