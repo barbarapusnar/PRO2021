@@ -15,7 +15,8 @@
         <TextBlock x:ConnectionId='2'                                  Style="{ThemeResource TitleTextBlockStyle}"
                    VerticalAlignment="Center" HorizontalAlignment="Center"/>
         <ListView x:ConnectionId='3' Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center"
-                                                                    >
+                                                                     
+                  IsItemClickEnabled="True"                               >
             <ListView.ItemTemplate>
                 <DataTemplate                                    >
                     <Grid x:ConnectionId='5' Height="110" Margin="6">

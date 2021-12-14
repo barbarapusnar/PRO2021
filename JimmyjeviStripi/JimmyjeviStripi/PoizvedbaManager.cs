@@ -33,6 +33,11 @@ namespace JimmyjeviStripi
                "Stripi nad 500$", "Kateri so najdrajžji stripi nad 500$",
                UstvariSliko("captain_amazing_250x250.jpg"))
                );
+            DostopnePoizvedbe.Add(
+              new PoizvedbaStripov("Ostale poizvedbe",
+              "Nekaj zanimivosti", "Bla bla bla bla bla",
+              UstvariSliko("bluegray_250x250.jpg"))
+              );
         }
 
         private BitmapImage UstvariSliko(string v)

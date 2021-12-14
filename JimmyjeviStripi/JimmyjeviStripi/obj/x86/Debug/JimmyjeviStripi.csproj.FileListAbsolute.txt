@@ -44,3 +44,8 @@ D:\PRO2021\JimmyjeviStripi\JimmyjeviStripi\obj\x86\Debug\MultipleQualifiersPerDi
 D:\PRO2021\JimmyjeviStripi\JimmyjeviStripi\obj\x86\Debug\ProjectArchitectures.txt
 D:\PRO2021\JimmyjeviStripi\JimmyjeviStripi\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
 D:\PRO2021\JimmyjeviStripi\JimmyjeviStripi\bin\x86\Debug\Assets\bluegray_250x250.jpg
+D:\PRO2021\JimmyjeviStripi\JimmyjeviStripi\bin\x86\Debug\Podrobnosti.xbf
+D:\PRO2021\JimmyjeviStripi\JimmyjeviStripi\obj\x86\Debug\Podrobnosti.g.i.cs
+D:\PRO2021\JimmyjeviStripi\JimmyjeviStripi\obj\x86\Debug\Podrobnosti.g.cs
+D:\PRO2021\JimmyjeviStripi\JimmyjeviStripi\obj\x86\Debug\Podrobnosti.xaml
+D:\PRO2021\JimmyjeviStripi\JimmyjeviStripi\obj\x86\Debug\Podrobnosti.xbf

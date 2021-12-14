@@ -32,7 +32,9 @@
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="ItemsSource" />
+      <RootProperty Name="IsItemClickEnabled" />
       <RootProperty Name="ItemTemplate" />
+      <RootEvent Name="ItemClick" />
     </RootType>
     <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.BindExtension" />
     <RootType FullName="Windows.UI.Xaml.DataTemplate">
@@ -56,5 +58,6 @@
       <RootProperty Name="Stretch" />
     </RootType>
     <RootType FullName="JimmyjeviStripi.MainPage" />
+    <RootType FullName="JimmyjeviStripi.Podrobnosti" />
   </Roots.RootTypes>
 </Roots>

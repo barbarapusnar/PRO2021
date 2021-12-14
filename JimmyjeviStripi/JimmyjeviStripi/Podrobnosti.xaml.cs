@@ -13,28 +13,27 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
-// The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
+// The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=234238
 
 namespace JimmyjeviStripi
 {
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
-    public sealed partial class MainPage : Page
+    public sealed partial class Podrobnosti : Page
     {
-        PoizvedbaManager ViewModel;
-        public MainPage()
+        PodrobnostiPoizvedbe ViewModel;
+        public Podrobnosti()
         {
             this.InitializeComponent();
-            this.ViewModel = new PoizvedbaManager();
+            ViewModel = new PodrobnostiPoizvedbe();
         }
-
-        private void ListView_ItemClick(object sender, ItemClickEventArgs e)
+        protected override void OnNavigatedTo(NavigationEventArgs e)
         {
-            PoizvedbaStripov query = e.ClickedItem as PoizvedbaStripov;
-            if (query != null)
+            PoizvedbaStripov p = e.Parameter as PoizvedbaStripov;
+            if (p != null)
             {
-                this.Frame.Navigate(typeof(Podrobnosti), query);
+                ViewModel.UpdateQueryResult(p);
             }
         }
     }
