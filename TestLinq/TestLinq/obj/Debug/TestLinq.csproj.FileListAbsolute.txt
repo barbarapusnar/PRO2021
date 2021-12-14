@@ -1,0 +1,7 @@
+D:\PRO2021\TestLinq\TestLinq\bin\Debug\TestLinq.exe.config
+D:\PRO2021\TestLinq\TestLinq\bin\Debug\TestLinq.exe
+D:\PRO2021\TestLinq\TestLinq\bin\Debug\TestLinq.pdb
+D:\PRO2021\TestLinq\TestLinq\obj\Debug\TestLinq.csproj.AssemblyReference.cache
+D:\PRO2021\TestLinq\TestLinq\obj\Debug\TestLinq.csproj.CoreCompileInputs.cache
+D:\PRO2021\TestLinq\TestLinq\obj\Debug\TestLinq.exe
+D:\PRO2021\TestLinq\TestLinq\obj\Debug\TestLinq.pdb

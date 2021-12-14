@@ -28,18 +28,54 @@ namespace LinqToObjects
             new {ImePodjetja="Djak",Mesto="Nova Gorica",Država="Slovenija"},
             new {ImePodjetja="Fitnes",Mesto="Ljubljana",Država="Slovenija"},
             new {ImePodjetja="Inn",Mesto="Trst",Država="Italija"} };
+            //1. napiši LINQ stavek s katerim izbereš in izpišeš vsa imena kupcev
+            var x1 = from a in kupci
+                     select a.Ime;
+            var x2 = kupci.Select(a => a.Ime);
+            foreach (var y in x2)
+                Console.WriteLine(y);
+            //2. napiši LINQ stavek katerim izbereš in izpišeš imena in priimke kupcev
+            var x3 = from a in kupci
+                     select new { a.Ime, a.Priimek };
+            var x4 = kupci.Select(a => new { a.Ime, a.Priimek });
+            Console.WriteLine("***************************");
+            foreach (var y in x4)
+                Console.WriteLine(y.Ime+" "+y.Priimek);
+            //3. izberi in izpiši vsa imena podjetji iz Slovenije
+            var x5 = podjetja.Where(a => a.Država == "Slovenija").Select(a=>a.ImePodjetja);
+            Console.WriteLine("***************************");
+            foreach (var y in x5)
+                Console.WriteLine(y);
+            //4. Izpiši imena podjetji urejena po abecedi
+            var x6 = podjetja.OrderBy(a => a.ImePodjetja).Select(a => a.ImePodjetja);
+            Console.WriteLine("***************************");
+            foreach (var y in x6)
+                Console.WriteLine(y);
+            //5. izpiši koliko je različnih podjetji
+            var x7 = podjetja.Distinct().Count();
+            Console.WriteLine("***************************");
+            Console.WriteLine(x7);
+            //6. izpiši koliko podjetij je iz Italije
+            var x8 = podjetja.Where(a => a.Država == "Italija").Count();
+            Console.WriteLine("***************************");
+            Console.WriteLine(x8);
+            //7. izpiši iz koliko različnih držav imamo podjetj
+            var x9 = podjetja.Select(a => a.Država).Distinct().Count();
+            Console.WriteLine("***************************");
+            Console.WriteLine(x9);
             //grupiraj kupce po podjetjih
             var x = from a in kupci
                     group a by a.Podjetje into p
                     select p;
-            foreach (var y1 in x)
-            {
-                Console.WriteLine("Podjetje "+y1.Key);
-                foreach (var y2 in y1)
-                {
-                    Console.WriteLine("\t"+y2.Ime+" "+y2.Priimek);
-                }
-            }
+            var x10 = kupci.GroupBy(a => a.Podjetje);
+            //foreach (var y1 in x)
+            //{
+            //    Console.WriteLine("Podjetje "+y1.Key);
+            //    foreach (var y2 in y1)
+            //    {
+            //        Console.WriteLine("\t"+y2.Ime+" "+y2.Priimek);
+            //    }
+            //}
             Console.ReadLine();
         }
 

@@ -1,0 +1,7 @@
+D:\PRO2021\DelegatAction\DelegatAction\bin\Debug\DelegatAction.exe.config
+D:\PRO2021\DelegatAction\DelegatAction\bin\Debug\DelegatAction.exe
+D:\PRO2021\DelegatAction\DelegatAction\bin\Debug\DelegatAction.pdb
+D:\PRO2021\DelegatAction\DelegatAction\obj\Debug\DelegatAction.csproj.CoreCompileInputs.cache
+D:\PRO2021\DelegatAction\DelegatAction\obj\Debug\DelegatAction.exe
+D:\PRO2021\DelegatAction\DelegatAction\obj\Debug\DelegatAction.pdb
+D:\PRO2021\DelegatAction\DelegatAction\obj\Debug\DelegatAction.csproj.AssemblyReference.cache

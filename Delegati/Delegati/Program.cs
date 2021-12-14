@@ -9,9 +9,9 @@ namespace Delegati
     class Program
     {
         //1. definiramo delegatea
-        public delegate bool FunkcijaZaNize(string s);
+        //public delegate bool FunkcijaZaNize(string s);
         //2. metoda, ki sprejme delegata kot parameter
-        public static List<string> DelajOperacijeNadNizi(string[] nizi,FunkcijaZaNize mojFunkcija)
+        public static List<string> DelajOperacijeNadNizi(string[] nizi,Func<string,bool> mojFunkcija)
         {
             List<string> a = new List<string>();
             foreach (string x in nizi)
@@ -42,12 +42,21 @@ namespace Delegati
             Console.WriteLine("Konča z n");
             foreach(string s in nji)
                 Console.WriteLine(s);
+            //od danes
+
+            //List<string> bji = DelajOperacijeNadNizi(mojiNizi, 
+            //    delegate (string s) { return s.StartsWith("B"); });
+            List<string> bji = DelajOperacijeNadNizi(mojiNizi,
+                               s=>s.StartsWith("B"));
+            Console.WriteLine("Začne z B");
+            foreach (string s in bji)
+                Console.WriteLine(s);
             //Console.WriteLine("Želiš iskati \n1- po začetku  ali \n2- koncu niza");
             //string izbira = Console.ReadLine();
             //Console.WriteLine("Katero črko iščeš? ");
             //string črka = Console.ReadLine();
             ////poišči vsa imena, ki se začnejo na A
- 
+
             //List<string> imena = new List<string>();
             //if (izbira == "1")
             //  imena =  DobiNizeZačetek(črka,mojiNizi);

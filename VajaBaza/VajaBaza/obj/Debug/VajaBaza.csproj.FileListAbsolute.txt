@@ -1,0 +1,12 @@
+D:\PRO2021\VajaBaza\VajaBaza\bin\Debug\VajaBaza.exe.config
+D:\PRO2021\VajaBaza\VajaBaza\bin\Debug\VajaBaza.exe
+D:\PRO2021\VajaBaza\VajaBaza\bin\Debug\VajaBaza.pdb
+D:\PRO2021\VajaBaza\VajaBaza\bin\Debug\EntityFramework.dll
+D:\PRO2021\VajaBaza\VajaBaza\bin\Debug\EntityFramework.SqlServer.dll
+D:\PRO2021\VajaBaza\VajaBaza\bin\Debug\EntityFramework.xml
+D:\PRO2021\VajaBaza\VajaBaza\bin\Debug\EntityFramework.SqlServer.xml
+D:\PRO2021\VajaBaza\VajaBaza\obj\Debug\VajaBaza.csproj.AssemblyReference.cache
+D:\PRO2021\VajaBaza\VajaBaza\obj\Debug\VajaBaza.csproj.CoreCompileInputs.cache
+D:\PRO2021\VajaBaza\VajaBaza\obj\Debug\VajaBaza.csproj.CopyComplete
+D:\PRO2021\VajaBaza\VajaBaza\obj\Debug\VajaBaza.exe
+D:\PRO2021\VajaBaza\VajaBaza\obj\Debug\VajaBaza.pdb

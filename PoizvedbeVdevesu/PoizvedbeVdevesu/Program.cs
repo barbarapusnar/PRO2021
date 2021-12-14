@@ -40,24 +40,32 @@ namespace PoizvedbeVdevesu
             z.Insert(new Zaposleni { Id = 5, Ime = "Pavel", Priimek = "Matko", Oddelek = "Prodaja" });
             //1. napiši kodo, ki izpiše vse oddelke
             //2. napiši kodo, ki izpiše vse različne oddelke
-            var x = from a in z
-                    select a.Oddelek;
-            x = x.Distinct();
-            Console.WriteLine("Oddelki");
+            //var x = from a in z
+            //        select a.Oddelek;
+            //x = x.Distinct();
+
+            var x = z.Select(a => a.Oddelek).Distinct();
+
+            Console.WriteLine("Oddelki----");
             foreach(var y in x)
                 Console.WriteLine(y);
 
             //3. napiši kodo, ki izpiše vse zaposlene v oddelku IT
-            var x1 = from a in z
-                     where a.Oddelek == "IT"
-                     select a;
-            Console.WriteLine("Zaposleni v IT");
+            //var x1 = from a in z
+            //         where a.Oddelek == "IT"
+            //         select a;
+
+            var x1 = z.Where(a => a.Oddelek == "IT");
+            Console.WriteLine("Zaposleni v IT-----");
             foreach (var y in x1)
                 Console.WriteLine(y.ToString());
             //4. napiši kodo, ki izpiše zaposlene po oddelkih
-            var x2 = (from a in z
-                     group a by a.Oddelek);
-            Console.WriteLine("Zaposleni po oddelkih");
+            //var x2 = (from a in z
+            //         group a by a.Oddelek);
+
+            var x2 = z.GroupBy(a => a.Oddelek);
+
+            Console.WriteLine("Zaposleni po oddelkih---");
             foreach (var y in x2)
             {
                 Console.WriteLine(y.Key);
