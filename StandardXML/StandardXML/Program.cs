@@ -21,19 +21,19 @@ namespace StandardXML
             //VsiSKupaj v = new VsiSKupaj();
             //bf.Serialize(fs, v);
             //fs.Close();
-            //VsiSKupaj s = null;
-            //FileStream fs1 = new FileStream("d:\\pro2021\\liga.xml", FileMode.Open);
-            //XmlSerializer bf = new XmlSerializer(typeof(VsiSKupaj));
-            //try
-            //{
-            //    s = (VsiSKupaj)bf.Deserialize(fs1);
-            //}
-            //catch (SerializationException) { }
-            //finally { fs1.Close(); }
-            //foreach (Moštvo a in s.liga)
-            //{
-            //    Console.WriteLine(a.Ime);
-            //}
+            VsiSKupaj s = null;
+            FileStream fs1 = new FileStream("d:\\pro2021\\liga.xml", FileMode.Open);
+            XmlSerializer bf = new XmlSerializer(typeof(VsiSKupaj));
+            try
+            {
+                s = (VsiSKupaj)bf.Deserialize(fs1);
+            }
+            catch (SerializationException) { }
+            finally { fs1.Close(); }
+            foreach (Moštvo a in s.liga)
+            {
+                Console.WriteLine(a.Ime);
+            }
             //VsiSKupaj v = new VsiSKupaj();
             //string json = JsonConvert.SerializeObject(v, Formatting.Indented);
 
@@ -41,12 +41,12 @@ namespace StandardXML
             //StreamWriter s = new StreamWriter(fs);
             //s.Write(json);
             //s.Close();
-            VsiSKupaj v = JsonConvert.DeserializeObject<VsiSKupaj>(
-                File.ReadAllText("liga.json"));
-            foreach (Moštvo a in v.liga)
-            {
-                Console.WriteLine(a.Ime);
-            }
+            //VsiSKupaj v = JsonConvert.DeserializeObject<VsiSKupaj>(
+            //    File.ReadAllText("liga.json"));
+            //foreach (Moštvo a in v.liga)
+            //{
+            //    Console.WriteLine(a.Ime);
+            //}
             Console.WriteLine("konec");
             Console.ReadLine();
         }
